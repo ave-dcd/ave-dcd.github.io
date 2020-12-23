@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# AVE Data Coordination, Dissemination and Standards (DCDS) Workstream
 
-You can use the [editor on GitHub](https://github.com/ave-dcds/ave-dcds.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The [Atlas of Variant Effects (AVE) Alliance](https://www.varianteffect.org) aims to propel systematic and extensive measurement and analysis of the impact of genetic variants on functional elements of human, model organism and pathogen genomes, to further the understanding of genes, gene products and their regulation and empower the diagnosis and treatment of human disease.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Data Coordination, Dissemination and Standards (DCDS) workstream facilitates the registration of MAVE projects and dissemination of MAVE data, primarily by overseeing the growth and management of a MAVE database. This group is responsible for federating this database with other resources identified by data consumers (e.g. ClinGen, UniProt, PharmGKB). Members of this group:
 
-### Markdown
+* Develop minimal information standards and data formats for MAVE datasets
+* Engage with clinical and non-clinical data resources to enable MAVE data sharing
+* Curate/organize MAVE data from literature into MaveDB and other resources
+* Define and promote infrastructure for data deposition, coordination and dissemination
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All members are expected to follow the [AVE Code of Conduct](https://www.varianteffect.org/code-of-conduct).
 
-```markdown
-Syntax highlighted code block
+[Meeting minutes](https://docs.google.com/document/d/19QYpj-2QaXtqS9hYeldTgYe0ZezOEC0e1zN_uiua28U/edit) and [other workstream documents](https://drive.google.com/drive/folders/1_1_FbCiT_lkp26N7ANY37l3m6Nm0hYAI) are hosted in the [AVE Alliance Members Google Drive](https://drive.google.com/drive/folders/0AB1IMnWMCvviUk9PVA).
 
-# Header 1
-## Header 2
-### Header 3
+Please visit the [AVE Alliance website](https://www.varianteffect.org/work-streams) for information on other workstreams.
 
-- Bulleted
-- List
+### Workstream Lead(s): 
+* Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCDS%Workstream)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ave-dcds/ave-dcds.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Workstream Members:
+* TBA
