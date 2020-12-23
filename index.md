@@ -16,7 +16,7 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 Please visit the [AVE Alliance website](https://www.varianteffect.org/work-streams) for information on other workstreams.
 
 ### Workstream Lead(s): 
-* Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCDS%Workstream)
+* Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCDS%20Workstream)
 
 ### Workstream Members:
 * TBA
