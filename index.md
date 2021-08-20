@@ -20,4 +20,13 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/work-strea
 * Contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCD%20Workstream)
 
 ### Workstream Members:
-* TBA
+* Carol Bult
+* Melissa Cline
+* Helen Firth
+* Julia Foreman
+* Sumaiya Iqbal
+* Rachid Karam
+* Shannon McNulty
+* Jack Nicoludis
+* Kevin Riehle
+* Alex Wagner
