@@ -20,13 +20,13 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/work-strea
 * Contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCD%20Workstream)
 
 ### Workstream Members:
-* Carol Bult
-* Melissa Cline
-* Helen Firth
-* Julia Foreman
-* Sumaiya Iqbal
-* Rachid Karam
-* Shannon McNulty
-* Jack Nicoludis
-* Kevin Riehle
-* Alex Wagner
+* Carol Bult (The Jackson Lab)
+* Melissa Cline (UC Santa Cruz)
+* Helen Firth (Newnham College, Cambridge
+* Julia Foreman (Wellcome Sanger)
+* Sumaiya Iqbal (Broad Institute)
+* Rachid Karam (Ambry Genetics)
+* Shannon McNulty (UNC)
+* Jack Nicoludis (Invitae)
+* Kevin Riehle (Baylor College of Medicine)
+* Alex Wagner (GA4GH)
