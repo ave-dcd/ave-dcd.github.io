@@ -13,18 +13,23 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 
 Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
 
-### Workstream Lead(s): 
-* Alan Rubin (WEHI) and Maria Martin (EMBL-EBI)
+### Workstream Lead: 
+* Alan Rubin (WEHI) 
 * Contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCD%20Workstream)
 
 ### Workstream Members:
+* Jeremy Arbesfeld (Ohio)
 * Carol Bult (The Jackson Lab)
 * Melissa Cline (UC Santa Cruz)
-* Helen Firth (Newnham College, Cambridge
+* Erwan Delage (Wellcome Sanger)
+* Helen Firth (Newnham College, Cambridge)
 * Julia Foreman (Wellcome Sanger)
 * Sumaiya Iqbal (Broad Institute)
 * Rachid Karam (Ambry Genetics)
 * Shannon McNulty (UNC)
-* Jack Nicoludis (Invitae)
 * Kevin Riehle (Baylor College of Medicine)
 * Alex Wagner (GA4GH)
+
+Previous members:
+* Maria Martin (previous co-chair)(EMBL)
+* Jack Nicoludis (Invitae)
