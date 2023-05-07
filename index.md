@@ -18,7 +18,7 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * Contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCD%20Workstream)
 
 ### Workstream Members:
-* Jeremy Arbesfeld (Ohio)
+* Jeremy Arbesfeld (The Ohio State University)
 * Carol Bult (The Jackson Lab)
 * Melissa Cline (UC Santa Cruz)
 * Erwan Delage (Wellcome Sanger)
@@ -28,7 +28,7 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * Rachid Karam (Ambry Genetics)
 * Shannon McNulty (UNC)
 * Kevin Riehle (Baylor College of Medicine)
-* Alex Wagner (GA4GH)
+* Alex Wagner (Nationwide Children's Hospital)
 
 Previous members:
 * Maria Martin (previous co-chair)(EMBL)
