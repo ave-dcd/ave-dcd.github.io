@@ -19,7 +19,7 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * Contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCD%20Workstream)
 
 ### Workstream Members:
-* Jeremy Arbesfeld (Nationwide Children's Hospital)
+* Jeremy Arbesfeld (The Ohio State University)
 * Carol Bult (The Jackson Lab)
 * Melissa Cline (UC Santa Cruz)
 * Erwan Delage (Wellcome Sanger Institute)
