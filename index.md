@@ -7,7 +7,8 @@ The Data Coordination and Dissemination (DCD) workstream facilitates the registr
 * Engage with clinical and non-clinical data resources to enable MAVE data sharing
 * Curate/organize MAVE data from literature into MaveDB and other resources
 * Define and promote infrastructure for data deposition, coordination and dissemination
-* Facilitate the registration of MAVE projects
+* Write review, recommendation or guidelinepapers, often in conjunction with other AVE work streams
+* Oversee the growth and management of MaveDB
 
 All members are expected to follow the [AVE Code of Conduct](https://www.varianteffect.org/code-of-conduct).
 
@@ -19,18 +20,6 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * Contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20DCD%20Workstream)
 
 ### Workstream Members:
-* Jeremy Arbesfeld (Ohio)
-* Carol Bult (The Jackson Lab)
-* Melissa Cline (UC Santa Cruz)
-* Erwan Delage (Wellcome Sanger)
-* Helen Firth (Newnham College, Cambridge)
-* Julia Foreman (Wellcome Sanger)
-* Sumaiya Iqbal (Broad Institute)
-* Rachid Karam (Ambry Genetics)
-* Shannon McNulty (UNC)
-* Kevin Riehle (Baylor College of Medicine)
-* Alex Wagner (GA4GH)
+* Please visit the AVE Alliance website for current membership (https://www.varianteffect.org/workstreams) 
 
-Previous members:
-* Maria Martin (previous co-chair)(EMBL)
-* Jack Nicoludis (Invitae)
+
